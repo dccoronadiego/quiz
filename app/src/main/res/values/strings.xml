@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="pregunta_dios">DIOS TE AMA?</string>
+    <string name="pregunta_trinidad">LA SANTISIMA TRINIDAD SON 3 PERSONAS, PERO UN SOLO DIOS?</string>
+    <string name="pregunta_pedro">PEDRO, ANTES DE SER PEDRO SE LLAMABA SANTIAGO?</string>
+    <string name="pregunta_judas">JUDAS TRAICIONO A JESUS POR 30 MONEDAS?</string>
+    <string name="pregunta_elias">EL PROFETA ELIAS  BAUTIZO A JESUS?</string>
+    <string name="pregunta_hijo">ISAAC FUE EL PRIMER HIJO DE ABRAHAM?</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">correcto!!</string>
+    <string name="incorrect_toast">incorrecto!!</string>
+    <string name="next_button">siguiente pregunta</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
